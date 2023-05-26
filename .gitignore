@@ -1,0 +1,11 @@
+*.lua
+*.md
+*/.exercism/
+*/.vscode/
+*/.busted
+
+!.gitignore
+!binary-search/binary-search.lua
+!hamming/hamming.lua
+!hello-world/hello-world.lua
+!isogram/isogram.lua
